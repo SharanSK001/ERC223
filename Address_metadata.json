@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ERC223-token-standard-development/utils/Address.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ERC223-token-standard-development/utils/Address.sol": {
+			"keccak256": "0x798f32f366f539df08ee53a1dc047e3d3a427f7f442cf3af111d6be1b2a2b7c9",
+			"urls": [
+				"bzz-raw://afaba0b7f6ba1d6b0ba5b071e4773a026ee6cfff02dfdb4be4131a2999c2fce4",
+				"dweb:/ipfs/QmRmPe9MN3PtZJAxWx8ocwXHsGFe4tk9i2hzVgVAVobVPY"
+			]
+		}
+	},
+	"version": 1
+}
